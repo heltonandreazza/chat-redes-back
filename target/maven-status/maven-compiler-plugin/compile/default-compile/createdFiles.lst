@@ -1,0 +1,9 @@
+br\furb\conn\Connection.class
+br\furb\conn\KeepAlive.class
+br\furb\principal\TrocaDeMensagen.class
+br\furb\principal\teste.class
+com\mychat\webservices\MyChatSvc.class
+com\mychat\webservices\MyJaxbBean.class
+com\mychat\webservices\MyChatSvcXML.class
+com\mychat\webservices\JerseyEmbeddedHTTPServerCrunchify.class
+com\mychat\webservices\User.class
